@@ -1,0 +1,2 @@
+project     = "ccm"
+environment = "stg"
